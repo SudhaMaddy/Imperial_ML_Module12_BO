@@ -1,4 +1,4 @@
-# Imperial_ML_Module12_BO
+# Imperial_ML
 **Module 12 Capstone – Final Consolidated Reflection (Functions 1–8)**
 **What this capstone is really about (my understanding)**
 At the start of this capstone, my first reaction was simple and honest:
